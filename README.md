@@ -8,10 +8,10 @@ Author: [Cryin']
 Disclaimer: I am not responsible for any damage done using this tool. This tool should only be used for educational purposes.
 
 
-###运行环境: 
+### 运行环境: 
 * Windows , Linux running jre and mysql
 
-###开发环境及必需组件: 
+### 开发环境及必需组件: 
 
 * NetBeans IDE 6.0-7.0 & jdk 1.7 & mysql
 
@@ -29,11 +29,11 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 
 * swing-worker-1.1.jar
 
-###Modules Required:
+### Modules Required:
 
 * httpclient:  http://hc.apache.org/httpclient-3.x/
 
-###程序功能：
+### 程序功能：
 
 *程序可根据邮箱用户名密码或者邮箱Cookie来接收邮件;
 
@@ -41,11 +41,11 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 
 *程序采用Mysql数据库对已下载邮件进行管理，已经下载过的邮件不会重复下载;
 
-###支持邮箱:
+### 支持邮箱:
 *163、126、qq、sina邮箱类型，后续会陆续增加其它常用邮箱的支持。
 
-###使用说明:
+### 使用说明:
 
 *使用mysql数据库管理软件cookmail.sql导入mysql数据库，配置database.conf配置文件中的用户名密码即可
-使用软件，
+使用软件
 
